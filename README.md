@@ -1,5 +1,5 @@
 # Ex08 Event Registration Web Application
-## Date:
+## Date:20.03.2026
 
 ## AIM:
 To design, develop and deploy a web application for event registration using Figma UI tool.
